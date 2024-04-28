@@ -1,0 +1,9 @@
+État de la solution = 101 : MIP_optimal
+Valeur de la solution = 6.242640687119285
+
+Plus court chemin :
+x_(0, 1)_(0, 2)
+x_(0, 2)_(0, 3)
+x_(0, 3)_(1, 4)
+x_(1, 4)_(2, 5)
+x_(2, 5)_(3, 6)
